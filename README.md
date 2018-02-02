@@ -1,4 +1,5 @@
 # Ardudiddle
+![](https://github.com/eLeDeTe-LoDeTanda/Ardudiddle/blob/master/data/img/Ardudiddle.png)
 
 Arduino Trigger to MIDI/USB
 
